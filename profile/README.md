@@ -4,3 +4,5 @@
 
 <h2 align="center"> HYPERCIRCLE.TECH</h2>
 <p> Welcome to Hypercircle Technology's organization on GitHub :wave: </p>
+<h2 align="center"> About Us </h2>
+<p> Hypercircle Technology is a digital service provider. </p>
