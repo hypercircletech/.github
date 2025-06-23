@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://hypercircle.tech/hy](https://hypercircle.tech/wp-content/uploads/2025/03/21-1-1200x270.png)" width="100"/>
+  <img src="https://hypercircle.tech/wp-content/uploads/2025/03/21-1-1200x270.png" width="100"/>
 </div>
 
 <h2 align="center"> HYPERCIRCLE.TECH</h2>
